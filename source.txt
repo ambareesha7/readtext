@@ -1,0 +1,5 @@
+Hi [name],
+Thank you for your time in our office.
+Thanks for booking at [company] for [time]
+Regards
+[salesguy]
